@@ -1,0 +1,6 @@
+project/project
+target
+*.iml
+.idea
+.history
+*~
